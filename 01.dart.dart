@@ -9,5 +9,5 @@ void main() {
 
   // input is taken by stdin object.
   var name = stdin.readLineSync();
-  print("\nWelcome $name");
+  stdout.write("\nWelcome, $name");
 }
