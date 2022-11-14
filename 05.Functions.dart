@@ -18,7 +18,7 @@ void main() {
 
 class Myclass {
   Myclass() {
-    // Defualt Constructor Created get call automatically  when object is constructed.
+    // Defualt Constructor Created get call automatically   when object is constructed.
     print("MyClass Object created");
   }
 
