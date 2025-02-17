@@ -3,8 +3,8 @@ void main() {
 
   //  var is used for dynamicaly data storation.
 
-  var roolNo =
-      11; // Here var considerd roolNo as a int and we cannot give any other datatye value to it.
+  var roolNo = 11;
+  // Here var considerd roolNo as a int and we cannot give any other datatye value to it.
   // roolNo = "English";
 
   /*dynamic datatye when declared it can change its type as per the condition
